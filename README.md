@@ -8,5 +8,3 @@ Notebooks:
 - AnomalyDetection_multi.ipynb --> detects anomalies from data in a multivariable scenario
 
 Data has been are collect from https://www.kaggle.com/datasets/ranakrc/smart-building-system. This dataset is collected from 255 sensor time series, instrumented in 51 rooms in 4 floors of the Sutardja Dai Hall(SDH) at UC Berkeley. 
-
-<modificación en rama mjb-01>
