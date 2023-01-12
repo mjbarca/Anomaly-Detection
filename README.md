@@ -1,5 +1,5 @@
 # Anomaly-Detection
-This repository contains the public material generated for the master's thesis related to the detection of anomalies in in-house devices. The code has been generated in python using Google Colab as a development tool. The content is as follows:
+This repository contains the public material generated for the master's thesis related to the anomalies detection in in-house devices. The code has been generated in python using Google Colab as a development tool. The content is as follows:
 Notebooks:
 - RoomsView.ipynb --> load data and shows room data
 - DataStudy.ipynb --> load data and makes a study of data. Makes as well data preprocessing to generate models. generate scaled data already preprocesed
