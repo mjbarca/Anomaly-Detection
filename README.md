@@ -4,7 +4,8 @@ Notebooks:
 - RoomsView.ipynb --> load data and shows room data
 - DataStudy.ipynb --> load data and makes a study of data. Makes as well data preprocessing to generate models. generate scaled data already preprocesed
 - LSTM_model.ipynb --> generates LSTM model from preprocesed data
-- AnomalyDetection_mono.ipynb --> detects anomalies from data in a monovariable scenario 
+- AnomalyDetection_mono.ipynb --> detects anomalies from data in a monovariable scenario
+- AnomalyDetection_multi.ipynb --> detects anomalies from data in a multivariable scenario
 
 Data has been are collect from https://www.kaggle.com/datasets/ranakrc/smart-building-system. This dataset is collected from 255 sensor time series, instrumented in 51 rooms in 4 floors of the Sutardja Dai Hall(SDH) at UC Berkeley. 
 
